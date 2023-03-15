@@ -1,4 +1,5 @@
 #!/bin/bash
+# ./bin/build.sh bt60 "-- -DZMK_CONFIG=/home/jakob/_code/Personal/zmk/zmk-config-ckp" 
 BOARD="$1"
 ARGS="$2"
 
